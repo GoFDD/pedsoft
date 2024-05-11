@@ -1,1 +1,1 @@
-# PEDSOFT - Projeto para Empresa (Fábrica de Projetos)
+# PEDSOFT - Projeto para Empresa (Fábrica de Códigos)
